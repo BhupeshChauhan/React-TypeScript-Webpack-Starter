@@ -1,5 +1,5 @@
 {
-  "name": "frontendtemplate",
+  "name": "reacttypescriptwebpackstarter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BhupeshChauhan/frontendtemplate.git"
+    "url": "git+https://github.com/BhupeshChauhan/React-TypeScript-Webpack-Starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BhupeshChauhan/frontendtemplate/issues"
+    "url": "https://github.com/BhupeshChauhan/React-TypeScript-Webpack-Starter/issues"
   },
-  "homepage": "https://github.com/BhupeshChauhan/frontendtemplate#readme",
+  "homepage": "https://github.com/BhupeshChauhan/React-TypeScript-Webpack-Starter#readme",
   "dependencies": {
     "lucide-react": "^0.274.0",
     "react": "^18.2.0",
